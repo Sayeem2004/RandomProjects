@@ -1,0 +1,12 @@
+[submodule "Sayeem2004"]
+	path = Sayeem2004
+	url = git@github.com:Sayeem2004/Sayeem2004.git
+	branch = main
+[submodule "SmallProjects"]
+	path = SmallProjects
+	url = git@github.com:Sayeem2004/SmallProjects.git
+	branch = main
+[submodule "Archive"]
+	path = Archive
+	url = git@github.com:Sayeem2004/archive.git
+	branch = main
